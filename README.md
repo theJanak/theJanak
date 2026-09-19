@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey there! 👀
 
-<!--
-**theJanak/theJanak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Egor, a Software Engineering student at HSE (Higher School of Economics), aspiring to become a Game Designer.
 
-Here are some ideas to get you started:
+Based in Russia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love finding interesting ideas in any situation.
+
+My main tech stack is C#, C++, and Unity. My favorite tools are VS Code, Visual Studio, and CLion.
+
+I don't have public repos yet, but I have a bunch of ideas for games I want to build and ship in the future.
+
+**Fun Facts:**
+
+*   I have a cat.
+*   I don't like spicy food.
+*   Attack on Titan is my favorite anime.
+*   Favorite movies: Tenet and Inception.
+*   Hobbies: volleyball, cycling, and recently started photography.
